@@ -4,7 +4,7 @@ The following table includes API endpoints from various cryptocurrency exchanges
 
 | No | Exchange  | API URL                                                       |
 |----|-----------|---------------------------------------------------------------|
-| 1  | Bitfinex  | [API Link](https://api-pub.bitfinex.com/v2/conf/pub:list:currency) |
+| 1  | Bitfinex  | [API Link](https://api-pub.bitfinex.com/v2/tickers?symbols=ALL) |
 | 2  | Bitmex    | [API Link](https://www.bitmex.com/api/v1/instrument)          |
 | 3  | BtcTurk   | [API Link](https://api.btcturk.com/api/v2/ticker)             |
 | 4  | Dydx      | [API Link](https://api.dydx.exchange/v3/markets)              |
